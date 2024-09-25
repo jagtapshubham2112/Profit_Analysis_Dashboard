@@ -1,0 +1,8 @@
+Profit Analysis Dashboard:
+
+1) What regions or cities are driving the most profit?
+2) Which product categories are the most profitable?
+3) How does profit vary by customer segment (Consumer, Corporate, Home Office)?
+4) What is the shipping mode that brings in the highest profit?
+5) How do profits from different regions compare over time?
+6) Can we identify trends in sales or profit spikes for specific cities?
