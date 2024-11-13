@@ -1,4 +1,5 @@
 # Profit Analysis Dashboard
+![image alt](https://github.com/jagtapshubham2112/Profit_Analysis_Dashboard/blob/99f3fff1cccff649c11b101a02284c28f33d9244/profit_anlysis.jpg)
 
 ## Overview
 This Power BI dashboard provides an in-depth analysis of sales, profits, and order data across multiple dimensions, including regions, product categories, and customer segments. Designed for business analysts and decision-makers, it offers insights into performance metrics critical for evaluating business profitability.
